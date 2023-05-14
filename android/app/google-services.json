@@ -1,0 +1,46 @@
+{
+  "project_info": {
+    "project_number": "386071216493",
+    "project_id": "my-food-ea7ff",
+    "storage_bucket": "my-food-ea7ff.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:386071216493:android:8f80f60ea89d4a37355a64",
+        "android_client_info": {
+          "package_name": "com.flutterflow.myfood"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "386071216493-ot0nadnfnjipk2ifhi696qp9siq1i7f3.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyAnhPYGDg0vdNCP2CsMwFr6D13pqeHMD8w"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "386071216493-ot0nadnfnjipk2ifhi696qp9siq1i7f3.apps.googleusercontent.com",
+              "client_type": 3
+            },
+            {
+              "client_id": "386071216493-arj43urg2t6gte58tsp30h6gpc91b0j2.apps.googleusercontent.com",
+              "client_type": 2,
+              "ios_info": {
+                "bundle_id": "com.flutterflow.myfood"
+              }
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
